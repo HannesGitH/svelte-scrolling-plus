@@ -1,6 +1,6 @@
 {
   "name": "svelte-scrolling-plus",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Scroll to given elements with smooth animation",
   "author": "Valmisson Grizorte",
   "license": "MIT",
